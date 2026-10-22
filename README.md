@@ -23,7 +23,7 @@
 
 ### 🔗 Socials:
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vijay-kandala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vijaykandala08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
@@ -80,7 +80,7 @@
 - **RAG pipeline** with Spring AI (code chunking, vector search, repo-aware LLM answers with SSE streaming).
 - CI/CD with GitHub Actions; backend on Railway, frontend on Vercel, database on Neon.
 
-[🔗 Source Code](https://github.com/Vijaykandala08/YOUR-CODELENS-REPO) · [🌐 Live Demo](https://YOUR-CODELENS-LIVE-LINK)
+[🔗 Source Code](https://github.com/vijaywork0708/CodeLens-AI) · [🌐 Live Demo](https://codelens-ai-seven.vercel.app/)
 
 #### 📧 MailMind
 `Spring Boot` `JavaScript` `Google Gemini API` `Chrome Extension` `Railway`
@@ -88,7 +88,7 @@
 - Gemini API for context-aware smart replies, cutting drafting time by ~30%.
 - Backend deployed on Railway for scalable, cloud-hosted REST APIs.
 
-[🔗 Source Code](https://github.com/Vijaykandala08/YOUR-MAILMIND-REPO)
+[🔗 Source Code](https://github.com/vijaykandala31/Email-Assistant-Backend.git)
 
 #### 🛒 Cartify
 `Spring Boot` `React.js` `Spring Security (JWT)` `Spring Data JPA` `PostgreSQL` `Docker`
@@ -97,7 +97,7 @@
 - PostgreSQL schema design with Spring Data JPA; **Razorpay** payment integration with server-side validation.
 - Dockerized and deployed on Render, with validation, exception handling and logging.
 
-[🔗 Source Code](https://github.com/Vijaykandala08/YOUR-CARTIFY-REPO) · [🌐 Live Demo](https://YOUR-CARTIFY-LIVE-LINK)
+[🔗 Source Code](https://github.com/Vijaykandala08/Cartify-backend.git) · [🌐 Live Demo](https://cartifyproject.netlify.app/)
 
 ---
 
